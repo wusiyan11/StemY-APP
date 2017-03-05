@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/Husky/python-docs-samples/codelabs/flex_and_vision/env"
+VIRTUAL_ENV="/Users/Husky/Documents/Dev/cloudPlatform/StempY-APP/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
