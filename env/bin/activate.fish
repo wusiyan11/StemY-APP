@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/Husky/python-docs-samples/codelabs/flex_and_vision/env"
+set -gx VIRTUAL_ENV "/Users/Husky/Documents/Dev/cloudPlatform/StempY-APP/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
